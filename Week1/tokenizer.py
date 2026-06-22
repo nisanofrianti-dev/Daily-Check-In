@@ -11,10 +11,10 @@ print(chars)
 
 print("\nJumlah Vocabulary:", len(chars))
 
-# Membuat mapping karakter -> angka
-stoi = {ch: i for i, ch in enumerate(chars)}
+# Membuat STOI mapping karakter -> angka
+stoi = {ch: i for i, ch in enumerate(chars)} 
 
-# Membuat mapping angka -> karakter
+# Membuat ITOS mapping angka -> karakter
 itos = {i: ch for i, ch in enumerate(chars)}
 
 print("\nSTOI:")
