@@ -1,0 +1,5 @@
+=== Sample Encode & Decode ===
+
+Text   : To be
+Encode : [32, 53, 1, 40, 43]
+Decode : To be

@@ -1,0 +1,13 @@
+========== DATASET ==========
+
+Total Token      : 1115394
+Train Token      : 1003854
+Validation Token : 111540
+
+========== HYPERPARAMETER ==========
+
+Vocabulary : 65
+Batch Size : 32
+Block Size : 8
+Learning Rate : 0.01
+Max Iteration : 1000
